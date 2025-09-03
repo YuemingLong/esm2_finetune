@@ -37,3 +37,8 @@ Thumbs.db
 # Editor
 .vscode/
 .idea/
+
+# Ignore downloaded models (too large for GitHub)
+models/*
+!models/.gitkeep
+
